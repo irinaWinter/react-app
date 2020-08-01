@@ -9,7 +9,6 @@ class App extends PureComponent {
 	}
 
 	render () {
-		console.log(1)
 		return (
 	    <div className='container'>
 	    	<div className='bg-primary'>
